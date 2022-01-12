@@ -522,6 +522,10 @@ img {
 .skills__bootstrap {
   width: 90%;
 }
+
+.skills__java {
+  width: 80%;
+}
 .skills__react {
   width: 85%;
 }
